@@ -33,4 +33,4 @@ I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. A
 
 
 
-<font size="1"> Last Edited on: August/08/2021</font> 
+<small> Last Edited on: August/08/2021</small> 
