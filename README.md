@@ -51,10 +51,7 @@ I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. A
 </p>
 
 <p align = "right">
-<sub> <sup> Last Edited on: August/08/2021 by 
-            <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="small" data-theme="dark" data-type="VERTICAL" data-vanity="kkt" data-version="v1">
-              <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/kkt?trk=profile-badge">Kamlakant Tripathi</a>
-            </div>
+<sub> <sup> Last Edited on: August/08/2021 
       </sup>
 </sub>                                                                                                                
 </p>
