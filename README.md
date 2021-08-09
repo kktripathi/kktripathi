@@ -13,11 +13,10 @@ I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. A
 
  **Email me for**:
 
-- any project or job
-- research paper work for Data science & GIS domain
+- Any project or job
+- Research paper work for Data science & GIS domain
 
-## 🛠 &nbsp; Some of Tech Stack
-
+### 🛠 &nbsp; Some of Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)\
@@ -26,7 +25,7 @@ I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. A
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 ### ⚙️ &nbsp;My GitHub Analytics
 <p align="center">
