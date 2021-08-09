@@ -18,9 +18,9 @@ I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. A
 
 ## 🛠 &nbsp; Some of Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)\
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)\
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -28,7 +28,7 @@ I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. A
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
-## ⚙️ &nbsp;My GitHub Analytics
+### ⚙️ &nbsp;My GitHub Analytics
 <p align="center">
 <a href="https://github.com/kktripathi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kktripathi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
