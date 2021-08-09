@@ -1,5 +1,7 @@
 ### 👋 Hi, I am [Kamlakant Tripathi](https://kktripathi.github.io)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kkt" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/kkt?trk=profile-badge">Kamlakant (K.K.) Tripathi</a></div>
+
 I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. As a data science enthusiast, I like to learn and read about new stuff in the same domain.
 
 
