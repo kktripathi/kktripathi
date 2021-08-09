@@ -3,7 +3,7 @@
 I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. As a data science enthusiast, I like to learn and read about new stuff in the same domain.
 
 
-- 💻 Currently working on Due Diligence & Pool Loading team, an important team in Data & Anaytics department of the company.
+- 💻 Currently working for Due Diligence & Pool Loading team, an important team in Data & Anaytics department of the company.
 - 👨🏽‍💻 Apart from a fulltime job, I grow my skillset by doing relevent [Udemy](https://www.udemy.com/) and [Coursera](https://www.coursera.org/) courses.
 
 **My Work Interest**:
