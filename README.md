@@ -16,6 +16,10 @@ I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. A
 - any project or job
 - research paper work for Data science & GIS domain
 
+<p align="center">
+  <img alt="Github Stats of K.K. Tripathi" src="https://github-readme-stats.vercel.app/api?username=kktripathi&show_icons=true&theme=radical">
+</p>
+
 ## Get in touch:
 
 <p align = "center">
@@ -24,10 +28,6 @@ I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. A
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://kktripathi.github.io)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/kkt_tweet) 
 
-</p>
-
-<p align="center">
-  <img alt="Github Stats of K.K. Tripathi" src="https://github-readme-stats.vercel.app/api?username=kktripathi&show_icons=true&theme=radical">
 </p>
 
 -----
