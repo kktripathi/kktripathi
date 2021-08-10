@@ -1,6 +1,6 @@
 ### 👋 Hi, I am [Kamlakant Tripathi](https://kktripathi.github.io)
 
-<p align="right">
+<p align="left">
 <img width="70" height="70" src="qrcode_linkedin.jpg">
 </p>
 
