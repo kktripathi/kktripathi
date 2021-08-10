@@ -1,6 +1,3 @@
-<p align="left">
-<img width="70" height="70" src="qrcode_linkedin.jpg">
-</p>
 ### 👋 Hi, I am [Kamlakant Tripathi](https://kktripathi.github.io)
 
 I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. As a data science enthusiast, I like to learn and read about new stuff in the same domain.
@@ -51,6 +48,10 @@ I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. A
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://kktripathi.github.io)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/kkt_tweet) 
 
+</p>
+
+<p align="right">
+<img width="70" height="70" src="qrcode_linkedin.jpg">
 </p>
 
 <p align = "right">
