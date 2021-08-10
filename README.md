@@ -1,5 +1,8 @@
 ### 👋 Hi, I am [Kamlakant Tripathi](https://kktripathi.github.io)
-![Scan QR Code](qrcode_linkedin.jpg)
+
+<img src="qrcode_linkedin.jpg"
+     alt="Scan QR Code"
+     style="float: right; margin-right: 10px;" />
 
 I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. As a data science enthusiast, I like to learn and read about new stuff in the same domain.
 
