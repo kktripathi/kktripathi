@@ -55,7 +55,7 @@ I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. A
 </p>
 
 <p align = "right">
-<sub> <sup> Last Edited on: August/08/2021 
+<sub> <sup> Last Edited on: July/19/2021 
       </sup>
 </sub>                                                                                                                
 </p>
