@@ -1,12 +1,12 @@
 ### 👋 Hi, I am [Kamlakant Tripathi](https://kktripathi.github.io/kt)
 
-I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. As a data science enthusiast, I like to learn and read about new stuff in the same domain.
+I am a BI & Reporting Engineer working for a global bank in the United States.
+Previously, I worked as a Data Intelligence Engineer/Sr. Analyst at Data & Anaytics department of [PRA Group](https://www.pragroup.com), Virginia, USA - A global financial service company primarily focuses on NPLs. As a data science enthusiast, I like to learn and read about new stuff in the same technical domain.
 
-
-- 💻 Currently working for Due Diligence & Pool Loading team, an important team in Data & Anaytics department of the company.
 - 👨🏽‍💻 Apart from a fulltime job, I grow my skillset by doing relevent [Udemy](https://www.udemy.com/) and [Coursera](https://www.coursera.org/) courses or read articles on [Medium](https://www.medium.com/) to know about latest trends of Data Science in FinTech companies.
 
 **My Work Interest**:
+- BI & Reporting 💻 
 - Data Analysis
 - Data Visualization
 - Solving buisness problems
@@ -55,7 +55,7 @@ I am a Senior Data Analyst at [PRA Group](https://www.pragroup.com), Virginia. A
 </p>
 
 <p align = "right">
-<sub> <sup> Last Edited on: July/19/2021 
+<sub> <sup> Last Edited on: Mar/27/2023
       </sup>
 </sub>                                                                                                                
 </p>
