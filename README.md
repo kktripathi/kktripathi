@@ -1,10 +1,10 @@
 ### 👋 Hi, I am [Kamlakant Tripathi](https://kktripathi.github.io/kt)
-
+<!--
 I am a BI & Reporting Engineer working for a global bank in the United States.
 Previously, I worked as a Data Intelligence Engineer/Sr. Analyst at Data & Anaytics department of PRA Group, Virginia, USA - A global financial service company primarily focuses on NPLs. As a data science enthusiast, I like to learn and read about new stuff in the same technical domain.
 
 - 👨🏽‍💻 Apart from a fulltime job, I grow my skillset by doing relevent [Udemy](https://www.udemy.com/) and [Coursera](https://www.coursera.org/) courses or read articles on [Medium](https://www.medium.com/) to know about latest trends of Data Science in FinTech companies.
-
+-->
 **My Work Interest**:
 - BI & Reporting 💻 
 - Data Analysis
@@ -13,7 +13,7 @@ Previously, I worked as a Data Intelligence Engineer/Sr. Analyst at Data & Anayt
 
  **Email me for**:
 
-- Any project or job
+- Any project collab.
 - Research paper work for Data science & GIS domain
 
 ### 🛠 &nbsp; Some of Tech Stack
