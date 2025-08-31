@@ -10,6 +10,8 @@ Previously, I worked as a Data Intelligence Engineer/Sr. Analyst at Data & Anayt
 - Data Analysis
 - Data Visualization
 - Solving buisness problems
+  
+**Links**:
 - Microsoft Learn Tropies & Badges: https://learn.microsoft.com/en-us/users/kktripathi-7242/
 
  **Email me for**:
