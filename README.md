@@ -13,6 +13,7 @@ Previously, I worked as a Data Intelligence Engineer/Sr. Analyst at Data & Anayt
   
 **Learning Credentials**:
 - Microsoft Learn Trophies & Badges: https://learn.microsoft.com/en-us/users/kktripathi-7242/
+- Databricks Learn profile: https://credentials.databricks.com/profile/kamlakanttripathi579346/wallet
 - DataBricks Generative AI: https://credentials.databricks.com/36892d19-5c27-4b7f-a9b4-22bc6e65da01#acc.cGPL4Yvo
 - Coursera: Data Scientist Toolbox: https://www.coursera.org/account/accomplishments/certificate/6CCVXUK6LA2Z
 
